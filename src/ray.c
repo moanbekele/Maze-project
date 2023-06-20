@@ -8,8 +8,8 @@ static int horzWallContent, vertWallContent;
 
 
 /**
+ * 
  * horzIntersection - Finds horizontal intersection with the wall
- * @rayAngle: current ray angle
  *
  */
 
