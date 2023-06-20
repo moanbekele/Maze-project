@@ -4,5 +4,4 @@ build:
 run:
 	./maze;
 
-clean:
-	rm maze;
+
