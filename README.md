@@ -13,7 +13,7 @@ This Project was created was with C using SDL2 library. and built on Ubuntu 14.0
 > # Instalation 
 1. Clone From github repo 
     ```ss
-    $ git clone 
+    $ git clone https://github.com/moanbekele/Maze-project
     ```
 1. Installiation(Linux)
 *   `sudo apt install build-essential` Install GCC compiler
