@@ -54,7 +54,7 @@ void update_game(void)
 
 void render_game(void)
 {
-	clearColorBuffer(0xFF000000);
+	clearColorBuffer(0x0041b3);
 
 	renderWall();
 

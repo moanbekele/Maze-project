@@ -8,8 +8,8 @@ static int horzWallContent, vertWallContent;
 
 
 /**
- * 
  * horzIntersection - Finds horizontal intersection with the wall
+ * @rayAngle: current ray angle
  *
  */
 
@@ -178,7 +178,7 @@ void renderRays(void)
 			player.y * MINIMAP_SCALE_FACTOR,
 			rays[i].wallHitX * MINIMAP_SCALE_FACTOR,
 			rays[i].wallHitY * MINIMAP_SCALE_FACTOR,
-			0xFF0000FF
+			0x0041b3
 		);
 	}
 }
