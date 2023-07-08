@@ -17,7 +17,7 @@ This Project was created was with C using SDL2 library. and built on Ubuntu 14.0
     ```
 1. Installiation(Linux)
 *   `sudo apt install build-essential` Install GCC compiler
-*   `sudo apt install libsdl2-dev`
+*   `sudo apt install libsdl2-dev` Install SDL-2
   
 * <a href="https://www.youtube.com/watch?v=XfZ6WrV5Z7Y">Installiation for other Operating Systems</a>
 
