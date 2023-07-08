@@ -10,7 +10,7 @@ This Project was created was with C using SDL2 library. and built on Ubuntu 14.0
 
 
 
-> # Instalation 
+> # Installation
 1. Clone From github repo 
     ```ss
     $ git clone https://github.com/moanbekele/Maze-project
